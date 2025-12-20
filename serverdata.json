@@ -1,1 +1,37 @@
-{}
+[
+  {
+    "pattern": null,
+    "displayName": "TerraMC",
+    "address": "terramc.net"
+  },
+  {
+    "pattern": null,
+    "displayName": "GrieferGames",
+    "address": "griefergames.net"
+  },
+  {
+    "pattern": null,
+    "displayName": "LabyWorld",
+    "address": "laby.net"
+  },
+  {
+    "rulesUrl": "https://www.support.hypixel.net/hc/en-us/articles/6472550754962-Allowed-Modifications/",
+    "forbiddenMods": [
+      "freeLook"
+    ],
+    "pattern": "([A-z]+\\.)?hypixel\\.net(:[0-9]+)?",
+    "displayName": "Hypixel",
+    "address": "hypixel.net"
+  },
+  {
+    "rulesUrl": "https://www.gommehd.net/forum/threads/rules-MinecraftClient.941059/",
+    "forbiddenMods": [
+      "freeLook",
+      "fullBright",
+      "rearViewCamera"
+    ],
+    "pattern": "pattern": "gommehd\\.net(:[0-9]+)?",
+    "displayName": "GommeHDNet",
+    "address": "gommehd.net"
+  }
+]
