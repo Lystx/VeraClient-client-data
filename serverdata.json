@@ -30,7 +30,7 @@
       "fullBright",
       "rearViewCamera"
     ],
-    "pattern": "pattern": "gommehd\\.net(:[0-9]+)?",
+    "pattern": "gommehd\\.net(:[0-9]+)?",
     "displayName": "GommeHDNet",
     "address": "gommehd.net"
   }
