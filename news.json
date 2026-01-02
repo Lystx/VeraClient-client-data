@@ -1,7 +1,30 @@
 [
 {
   "title": "UI Rework",
-  "subtitle": "Completely new",
+  "author":"Lystx",
+  "date": 1767356000000,
+  "subtitle": "- Completely new - ",
   "body": "We have decided the UI needs a whole makeover. So we did. Its now way smoother and has fluent animations. Let us know what you think about it."
+},
+{
+  "title": "EmoteSystem",
+  "author":"Lystx",
+  "date": 1765728803000,
+  "subtitle": "- we need your help -",
+  "body": "We are currently working on an EmoteSystem and we are trying to find unique, cool and stylish emote ideas that we can integrate into VeraClient. If you have any ideas do not hesitate to contact us!"
+},
+{
+  "title": "Script addons",
+  "author":"Lystx",
+  "date": 1766074403000,
+  "subtitle": "- beta-phase -",
+  "body": "We have now integrated Addons into the client using our own simple script language. You can code your own addons and browse other online addons to enhance your gameplay even more"
+},
+{
+  "title": "FriendSystem",
+  "author":"Lystx",
+  "date": 1767356171448,
+  "subtitle": "- now public -",
+  "body": "We are proud to announce that we coded and implemented our own FriendSystem into VeraClient. You can now add friends and chat with them directly in VeraClient. Please be aware that this system is currently in its early development state and might still contain bugs!"
 }
 ]
