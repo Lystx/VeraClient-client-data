@@ -30,6 +30,18 @@
       "fullBright",
       "rearViewCamera"
     ],
+    "buttons:" [
+      {
+        "type": "URL",
+        "text": "Rules",
+        "value": "https://www.gommehd.net/forum/threads/rules-MinecraftClient.941059/"
+      },
+      {
+        "type": "PLAY",
+        "text": "BedWars",
+        "value": "/gameteleport bw"
+      }
+    ]
     "pattern": "gommehd\\.net(:[0-9]+)?",
     "displayName": "GommeHDNet",
     "address": "gommehd.net"
