@@ -32,14 +32,34 @@
     ],
     "buttons": [
       {
-        "type": "URL",
-        "text": "Rules",
-        "value": "https://www.gommehd.net/forum/threads/rules-MinecraftClient.941059/"
+        "type": "PLAY",
+        "text": "SkyWars",
+        "value": "/gameteleport skywars"
       },
       {
         "type": "PLAY",
         "text": "BedWars",
         "value": "/gameteleport bw"
+      },
+      {
+        "type": "PLAY",
+        "text": "GunGame",
+        "value": "/gameteleport ffagungame"
+      },
+      {
+        "type": "PLAY",
+        "text": "Kit 1v1",
+        "value": "/gameteleport 1vs1"
+      },
+      {
+        "type": "PLAY",
+        "text": "BuildFFA",
+        "value": "/gameteleport ffabuild"
+      },
+      {
+        "type": "PLAY",
+        "text": "Hardcore",
+        "value": "/gameteleport hardcore"
       }
     ],
     "pattern": "gommehd\\.net(:[0-9]+)?",
