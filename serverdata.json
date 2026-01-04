@@ -30,7 +30,7 @@
       "fullBright",
       "rearViewCamera"
     ],
-    "buttons:" [
+    "buttons": [
       {
         "type": "URL",
         "text": "Rules",
