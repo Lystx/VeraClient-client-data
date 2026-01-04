@@ -41,7 +41,7 @@
         "text": "BedWars",
         "value": "/gameteleport bw"
       }
-    ]
+    ],
     "pattern": "gommehd\\.net(:[0-9]+)?",
     "displayName": "GommeHDNet",
     "address": "gommehd.net"
