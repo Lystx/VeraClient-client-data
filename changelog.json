@@ -8,5 +8,20 @@
   "text": "Added Featured partners",
   "date": 1766236075678,
   "type": "ADDED"
+},
+{
+  "text": "Added Scrollbars to menus",
+  "date": 1767555680758,
+  "type": "ADDED"
+},
+{
+  "text": "Fixed ingame menu not displaying server info",
+  "date": 1767555680758,
+  "type": "FIXED"
+},
+{
+  "text": "Added custom ingame menu",
+  "date": 1767555680758,
+  "type": "ADDED"
 }
 ]
