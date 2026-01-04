@@ -19,6 +19,28 @@
     "forbiddenMods": [
       "freeLook"
     ],
+    "buttons": [
+      {
+        "type": "PLAY",
+        "text": "SkyBlock",
+        "value": "/play sb"
+      },
+      {
+        "type": "PLAY",
+        "text": "Murder",
+        "value": "/play murder_classic"
+      },
+      {
+        "type": "PLAY",
+        "text": "TNT-Run",
+        "value": "/play tnt_tntrun"
+      },
+      {
+        "type": "PLAY",
+        "text": "Kit 1v1",
+        "value": "/gameteleport 1vs1"
+      }
+    ],
     "pattern": "([A-z]+\\.)?hypixel\\.net(:[0-9]+)?",
     "displayName": "Hypixel",
     "address": "hypixel.net"
