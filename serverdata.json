@@ -87,5 +87,44 @@
     "pattern": "gommehd\\.net(:[0-9]+)?",
     "displayName": "GommeHDNet",
     "address": "gommehd.net"
+  },
+  {
+    "rulesUrl": null,
+    "forbiddenMods": [,
+    "buttons": [
+      {
+        "type": "PLAY",
+        "text": "FastBuilders",
+        "value": "/quickjoin fb"
+      },
+      {
+        "type": "PLAY",
+        "text": "Parkour",
+        "value": "/quickjoin pk"
+      },
+      {
+        "type": "PLAY",
+        "text": "Bedwars",
+        "value": "/quickjoin bw"
+      },
+      {
+        "type": "PLAY",
+        "text": "Minesweeper",
+        "value": "/quickjoin ms"
+      },
+      {
+        "type": "PLAY",
+        "text": "Moorhuhn",
+        "value": "/quickjoin mh"
+      },
+      {
+        "type": "PLAY",
+        "text": "Slender",
+        "value": "/quickjoin sl"
+      }
+    ],
+    "pattern": null,
+    "displayName": "McPlayHD",
+    "address": "play.mcplayhd.net"
   }
 ]
