@@ -23,5 +23,10 @@
   "text": "Added custom ingame menu",
   "date": 1767555680758,
   "type": "ADDED"
-}
+},
+{
+  "text": "Fixed splash screen animation",
+  "date": 1771330754948,
+  "type": "FIXED"
+},
 ]
