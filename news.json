@@ -1,10 +1,25 @@
 [
+ 
+ {
+  "title": "New Home",
+  "author":"Lystx",
+  "date": 1771330754948,
+  "subtitle": "- More interactive - ",
+  "body": "We redesigned the whole home menu. As you can see right here. Look around and find out what it offers for you. Maybe you like it."
+},
+{
+  "title": "Music Player",
+  "author":"Lystx",
+  "date": 1771330754148,
+  "subtitle": "- Completely new - ",
+  "body": "The Music Player is now completely new. It now has playlist support and tracks can be edited. You can enter custom tracknames or artist and even trim the track to start or end when you like it. We also implemented a shuffle function."
+},
 {
   "title": "UI Rework",
   "author":"Lystx",
   "date": 1767356000000,
   "subtitle": "- Completely new - ",
-  "body": "We have decided the UI needs a whole makeover. So we did. Its now way smoother and has fluent animations. Let us know what you think about it."
+  "body": "We have decided the UI needs a whole makeover. So we did. Its now way smoother and has fluent animations. You can also change the UI display mode between LIST and GRID. Try it out and let us know what you think about it."
 },
 {
   "title": "EmoteSystem",
@@ -12,14 +27,7 @@
   "date": 1765728803000,
   "subtitle": "- we need your help -",
   "body": "We are currently working on an EmoteSystem and we are trying to find unique, cool and stylish emote ideas that we can integrate into VeraClient. If you have any ideas do not hesitate to contact us!"
-},
-{
-  "title": "Script addons",
-  "author":"Lystx",
-  "date": 1766074403000,
-  "subtitle": "- beta-phase -",
-  "body": "We have now integrated Addons into the client using our own simple script language. You can code your own addons and browse other online addons to enhance your gameplay even more"
-},
+}
 {
   "title": "FriendSystem",
   "author":"Lystx",
