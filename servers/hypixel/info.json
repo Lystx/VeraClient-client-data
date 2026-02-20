@@ -1,0 +1,19 @@
+{
+  "featured": true,
+  "public": true,
+  "displayName": "Hypixel",
+  "address": "mc.hypixel.net",
+  "pattern":  null,
+  "rulesUrl": "https://www.support.hypixel.net/hc/en-us/articles/6472550754962-Allowed-Modifications/",
+  "forbiddenMods": [
+      "freeLook"
+  ],
+  "social": {
+    "web": "https://hypixel.net",
+    "web_shop": "https://store.hypixel.net",
+    "twitter": "HypixelNetwork",
+    "instagram": "hypixelofficial",
+    "youtube": "https://www.youtube.com/channel/UCHoVdy7-tYfrZtfhnSDK3JA",
+    "discord": "https://discord.com/invite/hypixel"
+  }
+}
