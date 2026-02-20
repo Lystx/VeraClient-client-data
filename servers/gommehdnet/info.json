@@ -1,5 +1,6 @@
 {
   "featured": true,
+  "public": true,
   "displayName": "GommeHD Net",
   "address": "gommehd.net",
   "pattern": "gommehd\\.net(:[0-9]+)?",
