@@ -1,0 +1,57 @@
+[
+  {
+    "name": "SkyWars",
+    "url": "https://www.gommehd.net/game/SkyWars",
+    "color": "35D9F2B7",
+    "icon": "skywars",
+    "command": "/gameteleport classicsw",
+    "quickJoinButton": true
+  },
+  {
+    "name": "BedWars",
+    "url": "https://www.gommehd.net/game/BedWars",
+    "color": "35D9F2B7",
+    "icon": "bedwars",
+    "command": "/gameteleport classicbw",
+    "quickJoinButton": true
+  },
+  {
+    "name": "GunGame",
+    "url": "https://www.gommehd.net/game/GunGame",
+    "color": "35D9F2B7",
+    "icon": "gungame",
+    "command": "/gameteleport ffagungame",
+    "quickJoinButton": true
+  },
+  {
+    "name": "Kit1vs1",
+    "url": "https://www.gommehd.net/game/Kit%201vs1",
+    "color": "35D9F2B7",
+    "icon": "1vs1",
+    "command": "/gameteleport 1vs1",
+    "quickJoinButton": true
+  },
+  {
+    "name": "BuildFFA",
+    "url": "https://www.gommehd.net/game/Build%20FFA",
+    "color": "35D9F2B7",
+    "icon": "1vs1",
+    "command": "/gameteleport ffabuild",
+    "quickJoinButton": true
+  },
+  {
+    "name": "Skill Training",
+    "url": "https://www.gommehd.net/game/Build%20FFA",
+    "color": "35D9F2B7",
+    "icon": "1vs1",
+    "command": "/gameteleport training",
+    "quickJoinButton": true
+  },
+  {
+    "name": "Hardcore",
+    "url": "https://www.gommehd.net/game/Hardcore",
+    "color": "35D9F2B7",
+    "icon": "hardcore",
+    "command": "/gameteleport hardcore"
+  }
+]
