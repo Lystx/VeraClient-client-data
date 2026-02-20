@@ -4,7 +4,11 @@
   "address": "gommehd.net",
   "pattern": "gommehd\\.net(:[0-9]+)?",
   "rulesUrl": "https://www.gommehd.net/forum/threads/rules-MinecraftClient.941059/",
-
+  "forbiddenMods": [
+      "freeLook",
+      "fullBright",
+      "rearViewCamera"
+  ],
   "social": {
     "web": "https://gommehd.net",
     "web_shop": "https://shop.gommehd.net",
