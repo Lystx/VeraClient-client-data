@@ -1,0 +1,138 @@
+[
+  {
+    "name": "SkyBlock",
+    "url": "https://hypixel.net/play#skyblock",
+    "color": "35D9F2B7",
+    "icon": "skyblock",
+    "command": "/play sb",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Bed Wars Solo",
+    "url": "https://hypixel.net/play#bedwars",
+    "color": "35D9F2B7",
+    "icon": "bedwars",
+    "command": "/play bedwars_eight_one",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Skywars Solo Normal",
+    "url": "https://hypixel.net/play#skywars",
+    "color": "35D9F2B7",
+    "icon": "skywars",
+    "command": "/play solo_normal",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Murder Mystery Classic",
+    "url": "https://hypixel.net/play#murdermystery",
+    "color": "35D9F2B7",
+    "icon": "murder",
+    "command": "/play murder_classic",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Housing",
+    "url": "https://hypixel.net/play#housing",
+    "color": "35D9F2B7",
+    "icon": "housing",
+    "command": "/lobby housing",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Bed Wars 4v4",
+    "url": "https://hypixel.net/play#bedwars",
+    "color": "35D9F2B7",
+    "icon": "bedwars",
+    "command": "/play bedwars_two_four",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Bed Wars Doubles",
+    "url": "https://hypixel.net/play#bedwars",
+    "color": "35D9F2B7",
+    "icon": "bedwars",
+    "command": "/play bedwars_eight_two",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Bed Wars 3v3v3v3",
+    "url": "https://hypixel.net/play#bedwars",
+    "color": "35D9F2B7",
+    "icon": "bedwars",
+    "command": "/play bedwars_four_three",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Bed Wars 4v4v4v4",
+    "url": "https://hypixel.net/play#bedwars",
+    "color": "35D9F2B7",
+    "icon": "bedwars",
+    "command": "/play bedwars_four_four",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Bed Wars Practice",
+    "url": "https://hypixel.net/play#bedwars",
+    "color": "35D9F2B7",
+    "icon": "bedwars",
+    "command": "/play bedwars_practice",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Bed Wars Dreams Rush Solo",
+    "url": "https://hypixel.net/play#bedwars",
+    "color": "35D9F2B7",
+    "icon": "bedwars",
+    "command": "/play bedwars_eight_one_rush",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Duels Bow Duel",
+    "url": "https://hypixel.net/play#duels",
+    "color": "35D9F2B7",
+    "icon": "duels",
+    "command": "/play duels_bow_duel",
+    "quickJoinButton": true
+  },
+  {
+    "name": "Duels UHC Duel",
+    "url": "https://hypixel.net/play#duels",
+    "color": "35D9F2B7",
+    "icon": "duels",
+    "command": "/play duels_uhc_duel",
+    "quickJoinButton": true
+  },
+  {
+    "name": "The Pit",
+    "url": "https://hypixel.net/play#pit",
+    "color": "35D9F2B7",
+    "icon": "pit",
+    "command": "/play pit",
+    "quickJoinButton": true
+  },
+  {
+    "name": "Build Battle Solo",
+    "url": "https://hypixel.net/play#buildbattle",
+    "color": "35D9F2B7",
+    "icon": "buildbattle",
+    "command": "/play build_battle_solo_normal",
+    "quickJoinButton": false
+  },
+  {
+    "name": "UHC Solo",
+    "url": "https://hypixel.net/play#uhc",
+    "color": "35D9F2B7",
+    "icon": "uhc",
+    "command": "/play uhc_solo",
+    "quickJoinButton": false
+  },
+  {
+    "name": "Wool Wars",
+    "url": "https://hypixel.net/play#woolwars",
+    "color": "35D9F2B7",
+    "icon": "woolwars",
+    "command": "/play wool_wool_wars_two_four",
+    "quickJoinButton": false
+  }
+]
